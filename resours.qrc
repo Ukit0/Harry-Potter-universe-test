@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/information">
+        <file>pipa.jpg</file>
+        <file>texttt.txt</file>
+    </qresource>
+</RCC>
